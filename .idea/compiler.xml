@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javassist-demo-1" />
+        <module name="javassist-demo-2" />
+        <module name="javassist-demo-3" />
+        <module name="javassist-demo-4" />
+        <module name="asm-demo-1" />
+        <module name="javassist-demo-5" />
+        <module name="asm-demo-3" />
+        <module name="asm-demo-2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
